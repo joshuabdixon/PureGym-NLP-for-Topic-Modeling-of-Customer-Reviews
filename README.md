@@ -6,7 +6,7 @@ This project applies Natural Language Processing (NLP) techniques to analyse cus
 ## Problem Statement
 Company X has been receiving an increasing number of negative reviews on various platforms. This analysis identifies common concerns such as cleanliness, equipment quality, customer service, and environmental factors like noise control. By uncovering these themes, the company can make informed decisions to address issues and enhance customer satisfaction.
 
-## Statistical Techniques and Libraries
+## Techniques and Libraries
 - **Topic Modelling:** Utilised `BERTopic` and `Gensim` (LDA).
 - **Emotion Analysis:** Implemented using BERT-based models.
 - **Large Language Model (LLM):** Employed Falcon-7b-Instruct to derive actionable insights.
