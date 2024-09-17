@@ -39,6 +39,7 @@ The dataset comprises two CSV files containing 12 months of customer reviews fro
 ## Files in This Repository
 - **Topic Modelling - Gym Customer Reviews.ipynb:** The Jupyter Notebook containing the complete analysis, including data processing, topic modelling, and visualisation.
 - **LICENSE:** The license file for the project.
+- The RAW data has not been included in to preserve the client's anonymity.
 
 ## Usage
 Open the `Topic Modelling - Gym Customer Reviews.ipynb` notebook to review the full analysis and findings. The notebook contains step-by-step explanations, visualisations, and code implementation.
