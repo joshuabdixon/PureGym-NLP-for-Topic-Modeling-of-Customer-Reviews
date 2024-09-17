@@ -1,10 +1,3 @@
-# NLP for Topic Modelling - Gym Customer Reviews
-
-## Project Overview
-This project focuses on using NLP techniques to analyHere's a revised version of the content formatted for a repository README:
-
----
-
 # Using NLP for Customer Feedback Analysis and Topic Modelling in Fitness Centres
 
 ## Project Overview
