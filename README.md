@@ -1,10 +1,10 @@
-# NLP for Topic Modelling - Gym Customer Reviews
+# NLP for Topic Modelling - PureGym Customer Reviews
 
 ## Project Overview
-This project applies Natural Language Processing (NLP) techniques to analyse customer reviews for a global fitness company (anonymised as "Company X"). The objective is to identify key themes in customer dissatisfaction and extract actionable insights to improve service quality and customer experience.
+This project applies Natural Language Processing (NLP) techniques to analyse customer reviews for PureGym. The objective is to identify key themes in customer dissatisfaction and extract actionable insights to improve service quality and customer experience.
 
 ## Problem Statement
-Company X has been receiving an increasing number of negative reviews on various platforms. This analysis identifies common concerns such as cleanliness, equipment quality, customer service, and environmental factors like noise control. By uncovering these themes, the company can make informed decisions to address issues and enhance customer satisfaction.
+PureGym has been receiving an increasing number of negative reviews on various platforms. This analysis identifies common concerns such as cleanliness, equipment quality, customer service, and environmental factors like noise control. By uncovering these themes, the company can make informed decisions to address issues and enhance customer satisfaction.
 
 ## Techniques and Libraries
 - **Topic Modelling:** Utilised `BERTopic` and `Gensim` (LDA).
@@ -12,8 +12,8 @@ Company X has been receiving an increasing number of negative reviews on various
 - **Large Language Model (LLM):** Employed Falcon-7b-Instruct to derive actionable insights.
 - **Libraries:** `nltk`, `regex`, `wordcloud` for text preprocessing; `transformers` for emotion analysis; `matplotlib` for visualisation.
 
-## Data Overview
-The dataset comprises two CSV files containing 12 months of customer reviews from Google and Trustpilot.
+# Data Overview
+The dataset comprises two CSV files containing 12 months of customer reviews from Google and Trustpilot. The data has not been included in this repository due to data protection requirements.
 
 ### Features
 - **Google Reviews Dataset:** 23,250 entries with features like gym location, review date, score, and comments.
@@ -46,3 +46,6 @@ Open the `Topic Modelling - Gym Customer Reviews.ipynb` notebook to review the f
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Acknowledgements
+Thank you to PureGym for providing the data and for their collaboration on this project.
