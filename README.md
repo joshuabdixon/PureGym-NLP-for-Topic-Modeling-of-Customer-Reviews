@@ -4,7 +4,7 @@
 This project applies Natural Language Processing (NLP) techniques to analyse customer reviews for PureGym. The objective is to identify key themes in customer dissatisfaction and extract actionable insights to improve service quality and customer experience.
 
 ## Problem Statement
-PureGym has been receiving an increasing number of negative reviews on various platforms. This analysis identifies common concerns such as cleanliness, equipment quality, customer service, and environmental factors like noise control. By uncovering these themes, the company can make informed decisions to address issues and enhance customer satisfaction.
+PureGym aim to better understand key topics and sentiments in their customer reviews to boost satisfaction. This analysis identifies common concerns such as cleanliness, equipment quality, customer service, and environmental factors like noise control. By uncovering these themes, the company can make informed decisions to address issues and enhance customer satisfaction.
 
 ## Techniques and Libraries
 - **Topic Modelling:** Utilised `BERTopic` and `Gensim` (LDA).
@@ -34,7 +34,7 @@ The dataset comprises two CSV files containing 12 months of customer reviews fro
 1. **Air Conditioning & Noise Control:** Regular maintenance of air conditioning and noise reduction strategies.
 2. **Cleanliness:** Increase cleaning frequency and employ additional staff for maintenance.
 3. **Equipment Quality:** Regularly inspect equipment and provide training for staff to ensure high-quality service.
-4. **Parking & Accessibility:** Improve parking facilities and address issues at key locations with high negative feedback.
+4. **Parking & Accessibility:** Improve parking facilities and address issues at selected key locations.
 
 ## Files in This Repository
 - **Topic Modelling - Gym Customer Reviews.ipynb:** The Jupyter Notebook containing the complete analysis, including data processing, topic modelling, and visualisation.
