@@ -1,4 +1,4 @@
-# NLP for Topic Modelling - PureGym Customer Reviews
+# NLP for Topic Modeling - PureGym Customer Reviews
 
 ## Project Overview
 This project applies Natural Language Processing (NLP) techniques to analyse customer reviews for PureGym. The objective is to identify key themes in customer dissatisfaction and extract actionable insights to improve service quality and customer experience.
