@@ -48,4 +48,4 @@ Open the `Topic Modelling - Gym Customer Reviews.ipynb` notebook to review the f
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
-Thank you to PureGym for providing the data and for their collaboration on this project.
+Thank you to PureGym for their collaboration on this project and for providing the dataset and permission to share this analysis.
