@@ -23,12 +23,12 @@ The dataset comprises two CSV files containing 12 months of customer reviews fro
 1. **Data Cleaning:** Removed unnecessary features, standardised text using regular expressions, and filtered non-English reviews.
 2. **Preprocessing:** Tokenised, removed stopwords, and lemmatised reviews using `nltk`.
 3. **Topic Modelling:** Applied `BERTopic` and `Gensim` to identify clusters within the reviews, focusing on negative feedback.
-4. **Emotion Analysis:** Utilised BERT-based models to classify emotions, particularly ‘anger,’ to understand customer sentiments.
+4. **Emotion Analysis:** Utilised BERT-based models to classify emotions, particularly to understand customer sentiments.
 5. **Actionable Insights:** Used Falcon-7b-Instruct to generate recommendations based on identified topics.
 
 ### Key Insights
 - Frequent concerns include air conditioning issues, noise control, cleanliness, equipment quality, and customer service.
-- Anger emerged as the dominant emotion in negative reviews, highlighting strong customer dissatisfaction.
+- Identified specific emotional patterns in feedback to enable targeted service improvements.
 
 ### Recommendations
 1. **Air Conditioning & Noise Control:** Regular maintenance of air conditioning and noise reduction strategies.
